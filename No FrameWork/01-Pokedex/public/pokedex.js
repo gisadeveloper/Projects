@@ -53,7 +53,7 @@ function createPokemonCard( pokemon ) {
         <div class="img-container">
           <img src="https://pokeres.bastionbot.org/images/pokemon/${
                pokemon.id
-               }.png" alt="${ name }" />
+               }.png" alt="${ name } loading="lazy" />
         </div>
 
         <div class="info">
