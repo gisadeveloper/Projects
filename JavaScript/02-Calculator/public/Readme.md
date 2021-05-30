@@ -6,8 +6,8 @@
 <br>
 
 ### Look at project 👀
-[Pokedex][link] 👈
+[Calculator][link] 👈
 
 
 <!--Link-->
-[link]: https://gisadev-pokedex.surge.sh/
+[link]: https://gisadev-calculator.surge.sh/
